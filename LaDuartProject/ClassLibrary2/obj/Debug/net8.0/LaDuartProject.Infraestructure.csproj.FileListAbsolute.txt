@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\ProjectLaDuart\LaDuartProject\ClassLibrary2\obj\Debug\net8.0\LaDuartProject.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\ProjectLaDuart\LaDuartProject\ClassLibrary2\obj\Debug\net8.0\LaDuartProject.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\ProjectLaDuart\LaDuartProject\ClassLibrary2\obj\Debug\net8.0\LaDuartProject.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\ProjectLaDuart\LaDuartProject\ClassLibrary2\obj\Debug\net8.0\LaDuartProject.Infraestructure.AssemblyInfo.cs
+C:\Users\usuario\Desktop\ProjectLaDuart\LaDuartProject\ClassLibrary2\obj\Debug\net8.0\LaDuartProject.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ProjectLaDuart\LaDuartProject\ClassLibrary2\bin\Debug\net8.0\LaDuartProject.Infraestructure.deps.json
+C:\Users\usuario\Desktop\ProjectLaDuart\LaDuartProject\ClassLibrary2\bin\Debug\net8.0\LaDuartProject.Infraestructure.dll
+C:\Users\usuario\Desktop\ProjectLaDuart\LaDuartProject\ClassLibrary2\bin\Debug\net8.0\LaDuartProject.Infraestructure.pdb
+C:\Users\usuario\Desktop\ProjectLaDuart\LaDuartProject\ClassLibrary2\bin\Debug\net8.0\LaDuartProjet.Core.dll
+C:\Users\usuario\Desktop\ProjectLaDuart\LaDuartProject\ClassLibrary2\bin\Debug\net8.0\LaDuartProjet.Core.pdb
+C:\Users\usuario\Desktop\ProjectLaDuart\LaDuartProject\ClassLibrary2\obj\Debug\net8.0\LaDuartProject.Infraestructure.csproj.CopyComplete
+C:\Users\usuario\Desktop\ProjectLaDuart\LaDuartProject\ClassLibrary2\obj\Debug\net8.0\LaDuartProject.Infraestructure.dll
+C:\Users\usuario\Desktop\ProjectLaDuart\LaDuartProject\ClassLibrary2\obj\Debug\net8.0\refint\LaDuartProject.Infraestructure.dll
+C:\Users\usuario\Desktop\ProjectLaDuart\LaDuartProject\ClassLibrary2\obj\Debug\net8.0\LaDuartProject.Infraestructure.pdb
+C:\Users\usuario\Desktop\ProjectLaDuart\LaDuartProject\ClassLibrary2\obj\Debug\net8.0\ref\LaDuartProject.Infraestructure.dll

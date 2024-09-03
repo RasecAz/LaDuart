@@ -1,0 +1,113 @@
+.navbar{
+    background-color: #070606;
+    height: 80px;
+    margin: 20px;
+    border-radius: 16px;
+    padding: .5rem;
+}
+
+.navbar .container-fluid .icons i {
+  color: #ffffff;
+  cursor: pointer;
+  font-size: 1.5rem;
+  margin-left: .81rem;
+  position: relative;
+}
+.navbar .container-fluid .icons span{
+    display: flex;
+    width: 25px;
+    height: 25px;
+    background-color: #ff0000;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+}
+
+.navbar .container-fluid .icons i:hover {
+  color: #808080;
+}
+.navbar-toggler{
+    border: none;
+    font-size: 1.25rem;
+}
+
+.navbar-toggler:focus, .btn-close:focus {
+  box-shadow: none;
+  outline: none;
+  
+}
+
+.hero-section{
+  background-image: url(/assets/img/moda1.jpg);
+  background-size: contain;
+  height: 100vh;
+  margin: 80px;
+}
+
+.icon-card {
+  display: flex;
+  margin: 100px;
+  justify-content: space-between;
+  align-items: self-end
+
+}
+
+.i1 {
+  margin-right: 10px;
+}
+.card-home {
+  max-width: 200px;
+}
+
+.logo img{
+    width: 80px;
+    margin-right: 10px;
+}
+.logo a{
+    display: flex;
+    align-items: center;
+    font-size: 20px
+}
+
+.hero-section::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.nav-link {
+  color: #ffffff;
+  cursor: pointer;
+  font-weight: 500;
+  position: relative;
+}
+.nav-link:hover, .nav-link.active{
+    color: #ffffff;
+}
+
+@media (min-width: 991px) {
+  .nav-link:before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0%;
+    height: 2px;
+    background-color: #ffffff;
+    visibility: hidden;
+    transition: 0.3s ease-in-out;
+  }
+
+  .nav-link:hover:before {
+    width: 100%;
+    visibility: visible;
+    background: #808080
+  }
+}

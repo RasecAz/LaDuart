@@ -1,0 +1,89 @@
+<nav class="navbar navbar-expand-lg fixed-top">
+  <div class="container-fluid">
+
+    <div class="logo">
+      <a href="#"><img src="/assets/img/imgLD11.png"/>
+      <h1>LaDaurt</h1>
+      </a>
+    </div>
+   
+   
+
+    <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+      <div class="offcanvas-header">
+        <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Offcanvas</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+      </div>
+      <div class="offcanvas-body">
+        <ul class="navbar-nav justify-content-center flex-grow-1 pe-3">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">Home</a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link mx-lg-2" href="#">Caballeros</a>
+          </li>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle mx-lg-2" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Damas
+            </a>
+            <div class="row">
+              <div class="col mg-lg-5">
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="#">Chalecos</a></li>
+                  <li><a class="dropdown-item" href="#">Tendencias</a></li>
+                  <li><a class="dropdown-item" href="#">Short</a></li>
+                  <li>
+                </ul>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="icons">
+      <i (click)="openDialog()" class="bi bi-cart4"></i>
+      <span>0</span>
+      <i class="bi bi-search"></i>
+    </div>
+  </div>
+</nav>
+
+<section class="hero-section">
+  <div class="container">
+      <div class="row">
+        <div class="col-12">
+        <div class="icon-card mt-5" fxLayoutAlign="center center">
+          <!-- Facebook -->
+          <a href="https://web.facebook.com/scrapi/" role="button">
+            <i class="bi bi-facebook" style="font-size: 2rem"></i>
+          </a>
+
+          <!-- Twitter -->
+          <a href="https://twitter.com/home" role="button">
+            <i class="bi bi-twitter" style="font-size: 2rem"></i>
+          </a>
+
+          <!-- Instagram -->
+          <a href="https://www.instagram.com/" role="button">
+            <i class="bi bi-instagram" style="font-size: 2rem"></i>
+          </a>
+
+          <!-- Linkedin -->
+          <a href="https://www.linkedin.com/feed/">
+            <i class="bi bi-linkedin" style="font-size: 2rem"></i>
+          </a>
+
+          <!-- Github -->
+          <a href="https://github.com/dashboard" role="button">
+            <i class="bi bi-github" style="font-size: 2rem"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+   </div>
+</section>

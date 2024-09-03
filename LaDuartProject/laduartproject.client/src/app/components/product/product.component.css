@@ -1,0 +1,33 @@
+.container .row img {
+  width: 100%;
+  filter: drop-shadow(0 30px 70px #d4cbcb);
+}
+.container .fondo {
+  background-color: #eeeee6;
+  padding: 20px;
+  border-radius: 20px;
+  height: 80%;
+}
+
+.container .card-title {
+  color: #000000;
+  font-weight: 800;
+  font-size: large;
+}
+
+.container .row .price{
+    letter-spacing: 7px;
+    font-size: small;
+}
+
+.container .row button{
+    background-color: #000000;
+    color: #ffffff;
+    padding: 5px 10px;
+    border-radius: 20px;
+    margin-top: 10px;
+    border: none;
+    cursor: pointer;
+
+}
+
